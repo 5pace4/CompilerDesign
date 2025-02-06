@@ -50,7 +50,8 @@ Each lab directory contains:
 
 ### 📌 **[Lab 01 - Lexical Analysis (Generate Lexems)](lab01/)**
 
-**📅 Conducted Date:** _13-12-2024_  
+**📅 Conducted Date:** _13-12-2024_
+
 **📜 Description:**  
 Lexical analysis is the first phase of a compiler. In this lab, we:
 
@@ -66,6 +67,7 @@ Lexical analysis is the first phase of a compiler. In this lab, we:
 ### 📌 **[Lab 02 - Lexical Analyzer (Categorized Lexems)](lab02/)**
 
 **📅 Conducted Date:** _07-01-2025_
+
 **📜 Description:**  
 In this lab, we:
 
@@ -81,7 +83,8 @@ In this lab, we:
 
 ### 📌 **[Lab 04 - Arithmetic Expression Evaluator](lab04/)**
 
-**📅 Conducted Date:** _06-02-2025_  
+**📅 Conducted Date:** _06-02-2025_
+
 **📜 Description:**  
 This lab focuses on implementing an **arithmetic expression evaluator** that follows operator precedence and supports multi-digit numbers and brackets. The code is structured into three versions:
 
